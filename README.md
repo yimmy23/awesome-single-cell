@@ -549,6 +549,7 @@ imputing missing gene expression measurements](https://arxiv.org/pdf/1905.02269.
 - [**SIB** Single-cell Transcriptomics](https://github.com/sib-swiss/single-cell-training/) | [website](https://sib-swiss.github.io/single-cell-training/latest/)
 - [**SIB NBIS/SciLifeLab** Advanced topics in Single Cell Omics](https://github.com/NBISweden/single-cell_sib_scilifelab_2021) | [website](https://nbisweden.github.io/single-cell_sib_scilifelab_2021/)
 - [**SIB** Advanced topics in single-cell transcriptomics](https://github.com/fmicompbio/adv_scrnaseq_2020)
+- [scRNA-Seq Cardiac Development](https://github.com/Naila-Srivastava/scRNASeq-Cardiac-Development) - End-to-end scRNA-seq pipeline mapping 10 cardiac cell types using Scanpy, Nextflow and AWS Batch.
 - [**WEHI**  Single cell RNA-seq analysis workshop](https://github.com/yunshun/SingleCellWorkshop/) | [website](https://yunshun.github.io/SingleCellWorkshop/)
 - [**Wellcome Sanger Institute** Analysis of single cell RNA-seq data](https://github.com/hemberg-lab/scRNA.seq.course) | [website](https://www.singlecellcourse.org/)
 
